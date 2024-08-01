@@ -10,9 +10,9 @@ The Titanic dataset provides information on the passengers who traveled on the T
 
 To run the notebook, you need to install the following libraries:
 
-\`\`\`bash
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
-\`\`\`
+```
 
 ## Data Loading
 
