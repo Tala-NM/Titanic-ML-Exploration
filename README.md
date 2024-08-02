@@ -1,7 +1,7 @@
 # Titanic - Machine Learning Exploration
 
-Dataset: [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic/overview)
-link of the my project in the google colab:  [google colab link](https://colab.research.google.com/drive/1juTazBr8aftT40oh1W2_ZWUNQARUV2HW?usp=drive_link)
+Dataset: [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic/overview)                                 
+link of  my project in  google colab:  [google colab link](https://colab.research.google.com/drive/1juTazBr8aftT40oh1W2_ZWUNQARUV2HW?usp=drive_link)
 
 ## Introduction
 
