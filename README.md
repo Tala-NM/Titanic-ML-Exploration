@@ -171,6 +171,8 @@ print(f'Accuracy: {accuracy * 100:.2f}%')
 
 This project demonstrates the essential steps of data preprocessing, exploratory data analysis, and model building using the Titanic dataset. By following these steps, you can gain insights into the data and build a predictive model to estimate the survival of passengers.
 
+## Pictures of the output
+
 ![pictures](IMG_5438.jpg)
 
 ![pictures](IMG_5439.jpg)
@@ -211,6 +213,7 @@ This project demonstrates the essential steps of data preprocessing, exploratory
 
 ![pictures](IMG_5457.jpg)
 
+![pictures](IMG_5461.jpg)
+
 ![pictures](IMG_5459.jpg)
 
-![pictures](IMG_5461.jpg)
